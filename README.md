@@ -11,13 +11,13 @@ This module is installed using [node package manager (npm)][npm]:
 # suitable build chain must be configured on Windows platforms
 # before installation.
 
-npm i @neuralegion/os-service
+npm i @brightsec/os-service
 ```
 
 It is loaded using the `require()` function:
 
 ```js
-const service = require('@neuralegion/os-service');
+const service = require('@brightsec/os-service');
 ```
 
 A program can then be added, removed and run as a service:
@@ -317,7 +317,7 @@ Example programs are included under the modules `example` directory.
 
 # License
 
-Copyright (c) 2021 NeuraLegion <artem.derevnjuk@neuralegion.com>
+Copyright (c) 2021 BrightSec <artem.derevnjuk@brightsec.com>
 
 Copyright (c) 2018 NoSpaceships Ltd <hello@nospaceships.com>
 

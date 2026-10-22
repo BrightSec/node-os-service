@@ -1,5 +1,5 @@
 {
-  "name": "@neuralegion/os-service",
+  "name": "@brightsec/os-service",
   "version": "2.0.7",
   "description": "Run Node.JS programs as native Operating System Services.",
   "main": "index.cjs",
@@ -55,15 +55,15 @@
     },
     {
       "name": "Artem Derevnjuk",
-      "email": "artem.derevnjuk@neuralegion.com"
+      "email": "artem.derevnjuk@brightsec.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeuraLegion/node-os-service.git"
+    "url": "git+https://github.com/BrightSec/node-os-service.git"
   },
   "bugs": {
-    "url": "https://github.com/NeuraLegion/node-os-service/issues"
+    "url": "https://github.com/BrightSec/node-os-service/issues"
   },
   "keywords": [
     "background-process",

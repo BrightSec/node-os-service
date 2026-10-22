@@ -91,7 +91,7 @@ jobs:
         with:
           node-version: 24
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@NeuraLegion'
+          scope: '@BrightSec'
 
       - name: Publish to GPR
         run: npm publish
